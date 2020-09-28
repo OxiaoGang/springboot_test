@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class Acontroller {
 	@RequestMapping("/a")
 	public Object aaa(){
-		return "aaaaa";
+
+		
+		return "ccccccccccc";
+
 	}
 }
